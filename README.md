@@ -1,5 +1,5 @@
 # promacion_p5.2
-%numeral p5.2
+%numeral p5.2 y 5.3
 H=[0:10,9:-1:0];
 plot(H,'g--*')
 xlabel('numero de valores')
